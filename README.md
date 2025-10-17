@@ -202,7 +202,7 @@ See full changelog: **[Changelog](docs/CHANGELOG.md)**
 
 **Manual installation:**
 ```bash
-git clone https://github.com/deepbeepmeep/Wan2GP.git
+git clone https://github.com/t0shigen/Wan2GP.git
 cd Wan2GP
 conda create -n wan2gp python=3.10.9
 conda activate wan2gp
