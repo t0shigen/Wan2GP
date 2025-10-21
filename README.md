@@ -1,4 +1,4 @@
-# WanGP
+# WanGP for Runpod Blackwell GPU
 
 -----
 <p align="center">
